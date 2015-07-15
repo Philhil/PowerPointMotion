@@ -1,0 +1,3 @@
+[submodule "KinectToolbox"]
+	path = KinectToolbox
+	url = https://github.com/Philhil/KinectToolbox.git
